@@ -1,0 +1,28 @@
+.wrapper{
+	max-width: 700px;
+	margin: 0 auto;
+	padding: 100px 10px;
+	border: 2px solid #AD169E;
+	background-color: #4FD4D9;
+}
+h1{
+	font-size: 30px;
+	color: grey;
+}
+.d30 {
+width: 0; 
+height: 0; 
+border-width: 40px 20px 10px;
+border-style: solid;
+border-color: #E95557 #E95557 transparent;
+}
+.content{
+	margin-top: 10px;
+	border-bottom: 1px dashed #32a1ce;;
+}
+#block{
+	height: 15px;
+	width: 10px;
+	border: 1px solid yellow;
+	background: lightgreen;
+}
